@@ -1,6 +1,6 @@
 ### Hi there, My Name is Renan 👋
 
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIP AND C++
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT AND C++
 
 <div style="display: inline_block">
  <a href="https://github.com/RenanR05">
