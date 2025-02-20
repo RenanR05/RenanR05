@@ -2,11 +2,14 @@
 
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT AND C++
 
-<div style="display: flex; align-items: center; gap: 10px;">
- <a href="https://github.com/RenanR05">
-  <img height="180em"  width="400em" src="https://github-readme-stats.vercel.app/api?username=RenanR05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanR05&layout=compact&langs_count=7&theme=tokyonight"/>
- </div>
+<div style="display: flex; align-items: center; gap: 0;">
+  <a href="https://github.com/RenanR05" style="display: flex; align-items: center; gap: 0;">
+    <img height="180em" width="400em" style="margin: 0; padding: 0; display: block;" 
+         src="https://github-readme-stats.vercel.app/api?username=RenanR05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="400em" style="margin: 0; padding: 0; display: block;" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanR05&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
