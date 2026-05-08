@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hey, I'm Renan 👋
-
-**Full Stack Developer** · Building cool things with modern web tech
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A3E635&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Renan+%F0%9F%91%8B;Full+Stack+Developer;Building+cool+things!)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/renanr3gis)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:renanregis05@gmail.com)
@@ -34,8 +32,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RenanR05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanR05&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=RenanR05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RenanR05&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RenanR05&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 ---
